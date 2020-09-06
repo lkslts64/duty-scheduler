@@ -1,18 +1,22 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Wizard
+      :totalSteps="3"
+      :currentStep="1"
+      :componentNames="['Input', 'SelectSoldiers', 'Results']"
+    >
+    </Wizard>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Wizard from "./components/Wizard.vue"
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
+    Wizard,
+  },
 }
 </script>
 

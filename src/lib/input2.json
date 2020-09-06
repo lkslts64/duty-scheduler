@@ -1,0 +1,29 @@
+{
+
+ "duties": [
+  {
+   "name": "0",
+   "numberOfSoldiersNeeded": 1
+  },
+  {
+   "name": "1",
+   "numberOfSoldiersNeeded": 1
+  }
+  ],
+  "soldiers": [
+    {
+     "name": "STR loukas",
+     "orderedPrefs": [
+      "0",
+      "1"
+     ]
+    },
+    {
+     "name": "STR kalu",
+     "orderedPrefs": [
+      "0",
+      "1"
+     ]
+    }
+]
+}

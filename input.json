@@ -1,0 +1,976 @@
+{
+ "duties": [
+  {
+   "name": "1",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "2",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "3",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "6",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "7",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "8",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "9",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "11",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "12",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "13",
+   "numberOfSoldiersNeeded": 4
+  },
+  {
+   "name": "Dog",
+   "numberOfSoldiersNeeded": 3
+  },
+  {
+   "name": "Watcher",
+   "numberOfSoldiersNeeded": 6
+  },
+  {
+   "name": "Dekaneas",
+   "numberOfSoldiersNeeded": 2
+  }
+ ],
+ "soldiers": [
+  {
+   "name": "STR Loukas0",
+   "orderedPrefs": [
+    "Watcher",
+    "8",
+    "7",
+    "Dekaneas",
+    "6",
+    "Dog",
+    "9",
+    "3",
+    "2",
+    "13",
+    "11",
+    "12",
+    "1"
+   ]
+  },
+  {
+   "name": "STR Loukas1",
+   "orderedPrefs": [
+    "9",
+    "Watcher",
+    "2",
+    "12",
+    "Dog",
+    "3",
+    "13",
+    "1",
+    "Dekaneas",
+    "7",
+    "8",
+    "6",
+    "11"
+   ]
+  },
+  {
+   "name": "STR Loukas2",
+   "orderedPrefs": [
+    "2",
+    "Dekaneas",
+    "3",
+    "9",
+    "13",
+    "Watcher",
+    "8",
+    "12",
+    "11",
+    "6",
+    "Dog",
+    "7",
+    "1"
+   ]
+  },
+  {
+   "name": "STR Loukas3",
+   "orderedPrefs": [
+    "7",
+    "9",
+    "8",
+    "Watcher",
+    "3",
+    "13",
+    "11",
+    "Dekaneas",
+    "1",
+    "6",
+    "12",
+    "2",
+    "Dog"
+   ]
+  },
+  {
+   "name": "STR Loukas4",
+   "orderedPrefs": [
+    "12",
+    "6",
+    "Watcher",
+    "1",
+    "3",
+    "8",
+    "13",
+    "Dekaneas",
+    "Dog",
+    "9",
+    "7",
+    "11",
+    "2"
+   ]
+  },
+  {
+   "name": "STR Loukas5",
+   "orderedPrefs": [
+    "Dekaneas",
+    "9",
+    "6",
+    "3",
+    "8",
+    "Watcher",
+    "1",
+    "12",
+    "11",
+    "2",
+    "13",
+    "Dog",
+    "7"
+   ]
+  },
+  {
+   "name": "STR Loukas6",
+   "orderedPrefs": [
+    "3",
+    "6",
+    "13",
+    "8",
+    "2",
+    "11",
+    "Watcher",
+    "Dekaneas",
+    "Dog",
+    "12",
+    "7",
+    "1",
+    "9"
+   ]
+  },
+  {
+   "name": "STR Loukas7",
+   "orderedPrefs": [
+    "12",
+    "8",
+    "6",
+    "13",
+    "11",
+    "3",
+    "9",
+    "2",
+    "Watcher",
+    "1",
+    "7",
+    "Dog",
+    "Dekaneas"
+   ]
+  },
+  {
+   "name": "STR Loukas8",
+   "orderedPrefs": [
+    "Dog",
+    "13",
+    "Dekaneas",
+    "7",
+    "Watcher",
+    "2",
+    "11",
+    "8",
+    "12",
+    "1",
+    "6",
+    "9",
+    "3"
+   ]
+  },
+  {
+   "name": "STR Loukas9",
+   "orderedPrefs": [
+    "7",
+    "12",
+    "8",
+    "13",
+    "9",
+    "Dog",
+    "11",
+    "6",
+    "2",
+    "Watcher",
+    "Dekaneas",
+    "3",
+    "1"
+   ]
+  },
+  {
+   "name": "STR Loukas10",
+   "orderedPrefs": [
+    "Dog",
+    "3",
+    "Dekaneas",
+    "8",
+    "1",
+    "2",
+    "11",
+    "6",
+    "Watcher",
+    "9",
+    "7",
+    "12",
+    "13"
+   ]
+  },
+  {
+   "name": "STR Loukas11",
+   "orderedPrefs": [
+    "8",
+    "Dog",
+    "12",
+    "7",
+    "1",
+    "11",
+    "Dekaneas",
+    "6",
+    "Watcher",
+    "3",
+    "9",
+    "13",
+    "2"
+   ]
+  },
+  {
+   "name": "STR Loukas12",
+   "orderedPrefs": [
+    "Dekaneas",
+    "8",
+    "Dog",
+    "3",
+    "7",
+    "2",
+    "11",
+    "Watcher",
+    "1",
+    "13",
+    "12",
+    "6",
+    "9"
+   ]
+  },
+  {
+   "name": "STR Loukas13",
+   "orderedPrefs": [
+    "7",
+    "1",
+    "11",
+    "12",
+    "Dog",
+    "2",
+    "3",
+    "8",
+    "Dekaneas",
+    "13",
+    "9",
+    "6",
+    "Watcher"
+   ]
+  },
+  {
+   "name": "STR Loukas14",
+   "orderedPrefs": [
+    "9",
+    "2",
+    "Dog",
+    "Watcher",
+    "13",
+    "12",
+    "7",
+    "6",
+    "1",
+    "8",
+    "11",
+    "Dekaneas",
+    "3"
+   ]
+  },
+  {
+   "name": "STR Loukas15",
+   "orderedPrefs": [
+    "13",
+    "Dog",
+    "Dekaneas",
+    "3",
+    "11",
+    "9",
+    "1",
+    "6",
+    "8",
+    "12",
+    "7",
+    "Watcher",
+    "2"
+   ]
+  },
+  {
+   "name": "STR Loukas16",
+   "orderedPrefs": [
+    "9",
+    "Dog",
+    "6",
+    "1",
+    "2",
+    "11",
+    "13",
+    "7",
+    "8",
+    "3",
+    "Watcher",
+    "12",
+    "Dekaneas"
+   ]
+  },
+  {
+   "name": "STR Loukas17",
+   "orderedPrefs": [
+    "1",
+    "2",
+    "7",
+    "Dog",
+    "Watcher",
+    "Dekaneas",
+    "8",
+    "3",
+    "13",
+    "9",
+    "6",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "name": "STR Loukas18",
+   "orderedPrefs": [
+    "8",
+    "7",
+    "11",
+    "Dekaneas",
+    "9",
+    "Watcher",
+    "2",
+    "6",
+    "12",
+    "Dog",
+    "3",
+    "1",
+    "13"
+   ]
+  },
+  {
+   "name": "STR Loukas19",
+   "orderedPrefs": [
+    "3",
+    "6",
+    "13",
+    "9",
+    "8",
+    "11",
+    "7",
+    "Dekaneas",
+    "Dog",
+    "2",
+    "12",
+    "Watcher",
+    "1"
+   ]
+  },
+  {
+   "name": "STR Loukas20",
+   "orderedPrefs": [
+    "7",
+    "9",
+    "13",
+    "2",
+    "12",
+    "Watcher",
+    "11",
+    "1",
+    "Dog",
+    "3",
+    "Dekaneas",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "STR Loukas21",
+   "orderedPrefs": [
+    "8",
+    "12",
+    "9",
+    "13",
+    "Dekaneas",
+    "1",
+    "11",
+    "7",
+    "Watcher",
+    "3",
+    "2",
+    "6",
+    "Dog"
+   ]
+  },
+  {
+   "name": "STR Loukas22",
+   "orderedPrefs": [
+    "6",
+    "Watcher",
+    "2",
+    "Dog",
+    "13",
+    "Dekaneas",
+    "7",
+    "3",
+    "1",
+    "9",
+    "11",
+    "8",
+    "12"
+   ]
+  },
+  {
+   "name": "STR Loukas23",
+   "orderedPrefs": [
+    "Watcher",
+    "13",
+    "1",
+    "2",
+    "6",
+    "11",
+    "12",
+    "7",
+    "Dog",
+    "9",
+    "Dekaneas",
+    "8",
+    "3"
+   ]
+  },
+  {
+   "name": "STR Loukas24",
+   "orderedPrefs": [
+    "Dog",
+    "13",
+    "2",
+    "8",
+    "3",
+    "11",
+    "1",
+    "Watcher",
+    "Dekaneas",
+    "7",
+    "9",
+    "6",
+    "12"
+   ]
+  },
+  {
+   "name": "STR Loukas25",
+   "orderedPrefs": [
+    "13",
+    "2",
+    "Dog",
+    "3",
+    "12",
+    "Dekaneas",
+    "9",
+    "11",
+    "8",
+    "6",
+    "7",
+    "1",
+    "Watcher"
+   ]
+  },
+  {
+   "name": "STR Loukas26",
+   "orderedPrefs": [
+    "3",
+    "1",
+    "7",
+    "Dog",
+    "11",
+    "2",
+    "9",
+    "Dekaneas",
+    "8",
+    "Watcher",
+    "13",
+    "12",
+    "6"
+   ]
+  },
+  {
+   "name": "STR Loukas27",
+   "orderedPrefs": [
+    "11",
+    "3",
+    "8",
+    "Dekaneas",
+    "6",
+    "13",
+    "Watcher",
+    "12",
+    "Dog",
+    "1",
+    "7",
+    "9",
+    "2"
+   ]
+  },
+  {
+   "name": "STR Loukas28",
+   "orderedPrefs": [
+    "13",
+    "11",
+    "12",
+    "9",
+    "7",
+    "Dekaneas",
+    "6",
+    "Watcher",
+    "8",
+    "1",
+    "3",
+    "2",
+    "Dog"
+   ]
+  },
+  {
+   "name": "STR Loukas29",
+   "orderedPrefs": [
+    "9",
+    "8",
+    "7",
+    "3",
+    "Watcher",
+    "12",
+    "2",
+    "13",
+    "Dekaneas",
+    "6",
+    "11",
+    "1",
+    "Dog"
+   ]
+  },
+  {
+   "name": "STR Loukas30",
+   "orderedPrefs": [
+    "Dog",
+    "13",
+    "11",
+    "9",
+    "1",
+    "7",
+    "6",
+    "12",
+    "8",
+    "Watcher",
+    "3",
+    "2",
+    "Dekaneas"
+   ]
+  },
+  {
+   "name": "STR Loukas31",
+   "orderedPrefs": [
+    "Watcher",
+    "12",
+    "3",
+    "9",
+    "8",
+    "1",
+    "2",
+    "7",
+    "11",
+    "Dekaneas",
+    "6",
+    "Dog",
+    "13"
+   ]
+  },
+  {
+   "name": "STR Loukas32",
+   "orderedPrefs": [
+    "8",
+    "13",
+    "Dekaneas",
+    "2",
+    "11",
+    "3",
+    "12",
+    "6",
+    "Watcher",
+    "7",
+    "9",
+    "Dog",
+    "1"
+   ]
+  },
+  {
+   "name": "STR Loukas33",
+   "orderedPrefs": [
+    "11",
+    "6",
+    "Dog",
+    "9",
+    "Watcher",
+    "3",
+    "13",
+    "1",
+    "8",
+    "12",
+    "Dekaneas",
+    "2",
+    "7"
+   ]
+  },
+  {
+   "name": "STR Loukas34",
+   "orderedPrefs": [
+    "11",
+    "8",
+    "2",
+    "Watcher",
+    "6",
+    "12",
+    "13",
+    "7",
+    "3",
+    "Dekaneas",
+    "9",
+    "1",
+    "Dog"
+   ]
+  },
+  {
+   "name": "STR Loukas35",
+   "orderedPrefs": [
+    "Watcher",
+    "6",
+    "13",
+    "12",
+    "3",
+    "1",
+    "8",
+    "Dog",
+    "11",
+    "Dekaneas",
+    "2",
+    "9",
+    "7"
+   ]
+  },
+  {
+   "name": "STR Loukas36",
+   "orderedPrefs": [
+    "6",
+    "13",
+    "1",
+    "Dog",
+    "Watcher",
+    "8",
+    "11",
+    "7",
+    "9",
+    "12",
+    "3",
+    "2",
+    "Dekaneas"
+   ]
+  },
+  {
+   "name": "STR Loukas37",
+   "orderedPrefs": [
+    "13",
+    "1",
+    "8",
+    "7",
+    "9",
+    "12",
+    "11",
+    "3",
+    "Watcher",
+    "6",
+    "Dog",
+    "2",
+    "Dekaneas"
+   ]
+  },
+  {
+   "name": "STR Loukas38",
+   "orderedPrefs": [
+    "1",
+    "Watcher",
+    "Dekaneas",
+    "13",
+    "12",
+    "6",
+    "2",
+    "3",
+    "Dog",
+    "8",
+    "9",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "STR Loukas39",
+   "orderedPrefs": [
+    "7",
+    "2",
+    "1",
+    "6",
+    "9",
+    "13",
+    "11",
+    "3",
+    "Dog",
+    "8",
+    "Dekaneas",
+    "Watcher",
+    "12"
+   ]
+  },
+  {
+   "name": "STR Loukas40",
+   "orderedPrefs": [
+    "3",
+    "2",
+    "9",
+    "12",
+    "6",
+    "11",
+    "7",
+    "Dog",
+    "Dekaneas",
+    "13",
+    "8",
+    "Watcher",
+    "1"
+   ]
+  },
+  {
+   "name": "STR Loukas41",
+   "orderedPrefs": [
+    "7",
+    "1",
+    "6",
+    "2",
+    "Dog",
+    "Dekaneas",
+    "12",
+    "8",
+    "11",
+    "9",
+    "Watcher",
+    "3",
+    "13"
+   ]
+  },
+  {
+   "name": "STR Loukas42",
+   "orderedPrefs": [
+    "Dog",
+    "1",
+    "7",
+    "8",
+    "3",
+    "6",
+    "2",
+    "12",
+    "Watcher",
+    "9",
+    "Dekaneas",
+    "13",
+    "11"
+   ]
+  },
+  {
+   "name": "STR Loukas43",
+   "orderedPrefs": [
+    "Dog",
+    "2",
+    "13",
+    "3",
+    "Watcher",
+    "12",
+    "11",
+    "Dekaneas",
+    "9",
+    "1",
+    "8",
+    "6",
+    "7"
+   ]
+  },
+  {
+   "name": "STR Loukas44",
+   "orderedPrefs": [
+    "3",
+    "7",
+    "12",
+    "Watcher",
+    "8",
+    "1",
+    "6",
+    "Dog",
+    "Dekaneas",
+    "13",
+    "11",
+    "2",
+    "9"
+   ]
+  },
+  {
+   "name": "STR Loukas45",
+   "orderedPrefs": [
+    "9",
+    "8",
+    "7",
+    "1",
+    "12",
+    "3",
+    "13",
+    "Dekaneas",
+    "6",
+    "Dog",
+    "11",
+    "2",
+    "Watcher"
+   ]
+  },
+  {
+   "name": "STR Loukas46",
+   "orderedPrefs": [
+    "11",
+    "13",
+    "3",
+    "2",
+    "Dekaneas",
+    "1",
+    "7",
+    "Dog",
+    "6",
+    "12",
+    "Watcher",
+    "9",
+    "8"
+   ]
+  },
+  {
+   "name": "STR Loukas47",
+   "orderedPrefs": [
+    "8",
+    "9",
+    "1",
+    "Dog",
+    "2",
+    "7",
+    "6",
+    "Dekaneas",
+    "13",
+    "Watcher",
+    "11",
+    "3",
+    "12"
+   ]
+  },
+  {
+   "name": "STR Loukas48",
+   "orderedPrefs": [
+    "7",
+    "1",
+    "2",
+    "12",
+    "Dog",
+    "Dekaneas",
+    "3",
+    "Watcher",
+    "11",
+    "8",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "STR Loukas49",
+   "orderedPrefs": [
+    "12",
+    "9",
+    "Watcher",
+    "13",
+    "Dog",
+    "7",
+    "2",
+    "8",
+    "3",
+    "6",
+    "Dekaneas",
+    "1",
+    "11"
+   ]
+  },
+  {
+   "name": "STR Loukas50",
+   "orderedPrefs": [
+    "9",
+    "Dog",
+    "12",
+    "7",
+    "Watcher",
+    "13",
+    "6",
+    "8",
+    "1",
+    "Dekaneas",
+    "3",
+    "11",
+    "2"
+   ]
+  }
+ ]
+}
